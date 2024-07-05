@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gautam Girdhar</h1>
 <h3 align="center">A passionate full stack developer from India!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamgirdhar&label=Profile%20views&color=0e75b6&style=flat" alt="gautamgirdhar" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautamgirdhar" alt="gautamgirdhar" /></a> </p>
 
 - 🔭 I’m currently working on **nothing**
@@ -12,6 +10,9 @@
 - 🤝 I’m looking for help with **anyone**
 
 - 📫 How to reach me **girdhargautam6@gmail.com**
+
+### 🏆 Github Trophies
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamgirdhar&label=Profile%20views&color=0e75b6&style=flat" alt="gautamgirdhar" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
