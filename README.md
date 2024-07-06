@@ -9,8 +9,7 @@ Let’s build something awesome together!
 ----
 
 
-### 🧰 Languages and Tools
-
+## 🧰 Languages and Tools
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -25,7 +24,7 @@ Let’s build something awesome together!
 <img align="left" alt="arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 <br />
 
-#
+----
 
 
 <p align="center" padding="2rem" margin-up="2rem"> 
@@ -35,7 +34,7 @@ Let’s build something awesome together!
 
 ----
 
-### 🏆 Github Trophies
+## 🏆 Github Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautamgirdhar" alt="gautamgirdhar" /></a> </p>
 
 
