@@ -1,6 +1,8 @@
 
 <h3 align="center">
-  ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+
+  
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
 
   👋 Hi, I’m Gautam Girdhar! A second-year computer science student with a passion for full-stack web 
