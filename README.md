@@ -6,6 +6,7 @@ development. I thrive on solving complex problems and turning ideas into elegant
 not coding, you’ll find me exploring new technologies or sipping coffee at my favorite local café. 
 Let’s build something awesome together!
 
+---
 
 
 <h3 align="left"> 🧰 Languages and Tools:</h3>
