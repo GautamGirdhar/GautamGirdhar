@@ -1,8 +1,9 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+
+<h3 align="center">
+  ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
 
-
-<h3 align="center">👋 Hi, I’m [Your Name]! A second-year computer science student with a passion for full-stack web 
+  👋 Hi, I’m Gautam Girdhar! A second-year computer science student with a passion for full-stack web 
 development. I thrive on solving complex problems and turning ideas into elegant code. When I’m 
 not coding, you’ll find me exploring new technologies or sipping coffee at my favorite local café. 
 Let’s build something awesome together!
