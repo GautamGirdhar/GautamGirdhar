@@ -33,8 +33,19 @@ Let’s build something awesome together!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamgirdhar&show_icons=true&locale=en&layout=compact" alt="gautamgirdhar" /></p>
 
-### 🏆 Profile Views
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamgirdhar&label=Profile%20views&color=0e75b6&style=flat" alt="gautamgirdhar" /> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautamgirdhar&show_icons=true&locale=en" alt="gautamgirdhar" /></p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautamgirdhar&" alt="gautamgirdhar" /></p>
+<br />
+<br />
+
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
