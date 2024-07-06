@@ -2,7 +2,10 @@
 
 
 
-👋 Hi, I’m [Your Name]! A second-year computer science student with a passion for full-stack web development. I thrive on solving complex problems and turning ideas into elegant code. When I’m not coding, you’ll find me exploring new technologies or sipping coffee at my favorite local café. Let’s build something awesome together!
+👋 Hi, I’m [Your Name]! A second-year computer science student with a passion for full-stack web 
+development. I thrive on solving complex problems and turning ideas into elegant code. When I’m 
+not coding, you’ll find me exploring new technologies or sipping coffee at my favorite local café. 
+Let’s build something awesome together!
 
 
 
