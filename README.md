@@ -57,5 +57,7 @@ Let’s build something awesome together!
 
 ----
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GautamGirdhar)](https://github.com/GautamGirdhar/github-readme-stats)
-| ------------- | ------------- |
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GautamGirdhar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GautamGirdhar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GautamGirdhar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
